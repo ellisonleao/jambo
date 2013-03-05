@@ -1,4 +1,4 @@
 jambo
 =====
 
-Jambo - A little Android Framework for Games
+Jambo - A micro framework for Android Game Development
